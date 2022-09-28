@@ -34,15 +34,13 @@ npm install
 ```
 
 db = **'mongodb://localhost/db\_alumnos'**
+Example:
 
-    Example:
-
-    ```sh
     {
         "nombre": "Freddy Coello",
         "edad": 42
     }
-    ```
+    
 
 Start development environment using 
 
