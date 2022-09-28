@@ -12,11 +12,15 @@ Express
 MongoDB  
 
 
+
+
 ### **Frontend**    
 
 EJS
 
 Bootstrap  
+
+
 
 
 ### **Initialization**  
