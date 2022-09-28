@@ -33,7 +33,9 @@ Install dependencies in the package.json file
 npm install
 ```
 
-db = **"mongodb://localhost/db\_alumnos"**  Example:
+db = **"mongodb://localhost/db\_alumnos"**  
+
+Example:
 
     {
         "nombre": "Freddy Coello",
