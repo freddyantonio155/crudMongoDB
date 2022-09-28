@@ -1,7 +1,9 @@
-CRUD con MongoDB + Node Js + Express + Bootstrap 5 utilizando MVC
+# CRUD MONGODB
+
+## CRUD con MongoDB + Node Js + Express + Bootstrap 5 utilizando MVC
 
 
-Backend
+### Backend
 
 NodeJS
 
@@ -9,30 +11,43 @@ Express
 
 MongoDB
 
-Frontend
+
+### Frontend
 
 EJS
 
 Bootstrap
 
-Initialization
 
-- Clone the git repository using git clone
+### Initialization
 
-- Install dependencies in the package.json file
+Clone the git repository using 
 
-- db = 'mongodb://localhost/db\_alumnos'
+```sh
+git clone
+```
 
-Example:
+Install dependencies in the package.json file
 
-{
+```sh
+npm install
+```
 
-`  `"nombre": "Freddy Coello",
+db = **'mongodb://localhost/db\_alumnos'**
 
-`  `"edad": 42
+    Example:
 
-}
+    ```sh
+    {
+        "nombre": "Freddy Coello",
+        "edad": 42
+    }
+    ```
 
-- Start development environment using npm star
+Start development environment using 
+
+```sh
+npm start
+```
 
 
