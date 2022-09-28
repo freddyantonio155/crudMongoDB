@@ -1,25 +1,25 @@
-# CRUD MONGODB
+# CRUD MONGODB   
 
-## CRUD con MongoDB + Node Js + Express + Bootstrap 5 utilizando MVC
+## CRUD con MongoDB + Node Js + Express + Bootstrap 5 utilizando MVC    
 
 
-### Backend
+### **Backend**    
 
 NodeJS
 
 Express
 
-MongoDB
+MongoDB  
 
 
-### Frontend
+### **Frontend**    
 
 EJS
 
-Bootstrap
+Bootstrap  
 
 
-### Initialization
+### **Initialization**  
 
 Clone the git repository using 
 
@@ -33,8 +33,7 @@ Install dependencies in the package.json file
 npm install
 ```
 
-db = **'mongodb://localhost/db\_alumnos'**
-Example:
+db = **"mongodb://localhost/db\_alumnos"**  Example:
 
     {
         "nombre": "Freddy Coello",
