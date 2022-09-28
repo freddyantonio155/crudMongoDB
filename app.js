@@ -16,5 +16,5 @@ const alumnos = require('./src/routes/alumnos')
 app.use(alumnosRouter)
 
 app.listen(3020, ()=>{
-    console.log('¡Server UP! en http://localhost:3020')
+  console.log('¡Server UP! en http://localhost:3020')
 })
